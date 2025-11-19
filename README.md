@@ -3,9 +3,9 @@
 <div align="center">
 
 ### 💻 Développeur Web Full-Stack | 🧠 Data Scientist 
-### 🎯 En recherche d'alternance AI Engineer
+### 🎯 En alternance Data Engineer
 
-<img src="https://img.shields.io/badge/Statut-En_recherche_d'alternance-2ea043?style=for-the-badge" alt="Recherche Alternance">
+<img src="https://img.shields.io/badge/Statut-En_recherche_d'alternance-2ea043?style=for-the-badge" alt="En Alternance">
 
 </div>
 

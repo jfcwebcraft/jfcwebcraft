@@ -87,18 +87,18 @@ Ce tableau synthétise les compétences mises en œuvre lors du parcours certifi
 | **Projet 10** | **Pipeline d'Orchestration des Flux Budgétaires** *(Option A — CAB)* | Kestra, Docker, Python, Polars, SYLK, Power Automate, Parquet | *Dépôt privé* |
 | **Projet 9** | **Infrastructure Hybride Cloud, Spark & Redpanda** | Apache Spark, PySpark, Redpanda, Docker, AWS, Parquet | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet_9-Modelisez_une_infrastructure_dans_le_cloud) |
 | **Projet 8** | **Infrastructure de Données ELT GreenCoop** *(GreenCoop)* | Airbyte, dbt, PostgreSQL, Docker, AWS, Bash, CI/CD | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet-8-Construisez-et-testez-une-infrastructure-de-donnees) |
-| **Projet 7** | **Modélisation Machine Learning & BDD NoSQL** | Python, Scikit-learn, MLflow, MongoDB, Pandas | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet-7-Concevez-et-analysez-une-base-de-donnees-NoSQL) |
-| **Projet 6** | **Prédiction Énergétique de Bâtiments** | Python, Scikit-learn, Feature Engineering, Matplotlib | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet-6-Anticipez-les-besoins-en-consommation-de-b-timents) |
+| **Projet 7** | **Conception & Analyse de BDD NoSQL** *(NosCités)* | MongoDB, PyMongo, Polars, Power BI | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet-7-Concevez-et-analysez-une-base-de-donnees-NoSQL) |
+| **Projet 6** | **Prédiction Énergétique de Bâtiments** *(Ville de Seattle)* | Python, Scikit-learn, Feature Engineering, Matplotlib | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet-6-Anticipez-les-besoins-en-consommation-de-b-timents) |
 | **Projet 5** | **Migration de Données Médicales en NoSQL** | MongoDB, Python, Modélisation Orientée Documents | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet-5-Migrez-des-donnees-medicales-l-aide-du-NoSQL) |
-| **Projet 4** | **Audit d'un Environnement de Données** | SQL, PostgreSQL, Audit de Schéma, Métadonnées | *Dépôt privé* |
-| **Projet 3** | **Conception de BDD Relationnelle & SQL** | PostgreSQL, SQL, Modélisation MCD/MLD | *Dépôt privé* |
-| **Projet 2** | **Extraction & Analyse de Données Web** | Python, BeautifulSoup, Requests, Pandas | *Projet d'initiation* |
+| **Projet 4** | **Audit d'un Environnement de Données** *(SuperSmartMarket)* | Python, Pandas, RGPD, Contrôles d'intégrité | *Dépôt privé* |
+| **Projet 3** | **Conception de BDD Relationnelle & SQL** *(Laplace Immo)* | PostgreSQL, SQL, Modélisation MCD/MLD | *Dépôt privé* |
+| **Projet 2** | **Analyse Exploratoire de Données Éducatives** *(Academy EdTech)* | Python, Pandas, Matplotlib, Seaborn | *Dépôt privé* |
 
 ---
 
 ## Projets Professionnels & Réalisations Freelance
 
-- **ECOBUDGET-CAB — Analyse de budget vert** *(Collectivité / Projet public)* : Extraction automatique de devis PDF et classification selon la nomenclature environnementale européenne par LLM local souverain (Python, FastAPI, React, Vite). [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/ECOBUDGET-CAB-Communaut-d-Agglomeration-du-Boulonnais)
+- **ECOBUDGET-CAB — Analyse de budget vert** *(Projet d'alternance interne — CAB)* : Extraction automatique de devis PDF et classification selon la nomenclature environnementale européenne par LLM local souverain (Python, FastAPI, React, Vite). *(Dépôt privé sous clause de confidentialité)*
 - **Portfolio Fullstack JFC WebCraft** *(Production)* : Plateforme complète avec tableau de bord d'administration 2FA (JWT/TOTP) et assistant RAG souverain (FastAPI, Ollama, LangChain, Qdrant, React, TypeScript, Docker, Traefik).
 - **Ma Facturation PSY** *(Freelance / Solution SaaS)* : Solution web de gestion et facturation pour psychologues et praticiens libéraux (React, Node.js, Express, PostgreSQL, Docker).
 - **Welleat — Traitement de données alimentaires** *(Mission / Stage)* : Ingestion, nettoyage et enrichissement d'une base de 5 500+ ingrédients (Python, Pandas, Airflow, Mistral).

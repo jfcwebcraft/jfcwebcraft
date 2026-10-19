@@ -75,24 +75,25 @@
 
 ## Portfolio Data Engineer — Cursus OpenClassrooms
 
-Ce tableau synthétise les compétences mises en œuvre lors du parcours certifiant **Data Engineer / AI Engineer**. Seuls les dépôts publics validés sont accessibles publiquement ; les projets en cours de validation ou soumis à confidentialité sont maintenus sur dépôts privés.
+Ce tableau synthétise les compétences mises en œuvre lors du parcours certifiant **Data Engineer / AI Engineer**. Seuls les dépôts publics validés sont accessibles publiquement ; les projets soumis à confidentialité d'entreprise restent protégés sur dépôts privés.
 
 ### Matrice des Projets
 
 | Projet | Contexte & Thématique | Stack Technique | Statut / Dépôt |
 |:---|:---|:---|:---:|
 | **Projet 13** | **Industrialisation d'un Chatbot RAG (POC vers MVP)** *(Puls-Events)* | Azure, FastAPI, LangChain, FAISS, Mistral AI, Docker | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet-13-Passez-votre-systeme-IA-du-POC-au-MVP) |
-| **Projet 12** | **Architecture de Données Automatisée & Streaming** *(Option A — CAB)* | Redpanda, PostgreSQL, MongoDB, DuckDB, Kestra, Soda Core, Power BI | *Dépôt privé (En cours de validation)* |
-| **Projet 11** | **Assistant Culturel RAG Intelligent** *(Puls-Events)* | Python, LangChain, FAISS, OpenAgenda API, FastAPI | *Dépôt privé* |
-| **Projet 10** | **Pipeline d'Orchestration des Flux Budgétaires** *(Option A — CAB)* | Kestra, Docker, Python, Polars, SYLK, Power Automate, Parquet | *Dépôt privé* |
-| **Projet 9** | **Infrastructure Hybride Cloud, Spark & Redpanda** | Apache Spark, PySpark, Redpanda, Docker, AWS, Parquet | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet_9-Modelisez_une_infrastructure_dans_le_cloud) |
+| **Projet 12** | **Architecture de Données Automatisée & Reporting** *(Option A — CAB)* | Redpanda, PostgreSQL, MongoDB, DuckDB, Kestra, Power BI | *Dépôt privé (Mission en entreprise CAB)* |
+| **Projet 11** | **Assistant Culturel RAG Intelligent** *(POC Puls-Events)* | Python, LangChain, FAISS, OpenAgenda API, Mistral AI | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet-11-PulsEvents-RAG-Assistant-Culturel-Intelligent) |
+| **Projet 10** | **Pipeline d'Orchestration des Flux Budgétaires** *(Option A — CAB)* | Kestra, Docker, Python, Polars, SYLK, Parquet | *Dépôt privé (Mission en entreprise CAB)* |
+| **Projet 9** | **Infrastructure Hybride Cloud, Spark & Redpanda** *(InduTechData)* | Apache Spark, PySpark, Redpanda, Docker, AWS, Parquet | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet_9-Modelisez_une_infrastructure_dans_le_cloud) |
 | **Projet 8** | **Infrastructure de Données ELT GreenCoop** *(GreenCoop)* | Airbyte, dbt, PostgreSQL, Docker, AWS, Bash, CI/CD | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet-8-Construisez-et-testez-une-infrastructure-de-donnees) |
 | **Projet 7** | **Conception & Analyse de BDD NoSQL** *(NosCités)* | MongoDB, PyMongo, Polars, Power BI | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet-7-Concevez-et-analysez-une-base-de-donnees-NoSQL) |
 | **Projet 6** | **Prédiction Énergétique de Bâtiments** *(Ville de Seattle)* | Python, Scikit-learn, Feature Engineering, Matplotlib | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet-6-Anticipez-les-besoins-en-consommation-de-b-timents) |
-| **Projet 5** | **Migration de Données Médicales en NoSQL** | MongoDB, Python, Modélisation Orientée Documents | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet-5-Migrez-des-donnees-medicales-l-aide-du-NoSQL) |
-| **Projet 4** | **Audit d'un Environnement de Données** *(SuperSmartMarket)* | Python, Pandas, RGPD, Contrôles d'intégrité | *Dépôt privé* |
-| **Projet 3** | **Conception de BDD Relationnelle & SQL** *(Laplace Immo)* | PostgreSQL, SQL, Modélisation MCD/MLD | *Dépôt privé* |
-| **Projet 2** | **Analyse Exploratoire de Données Éducatives** *(Academy EdTech)* | Python, Pandas, Matplotlib, Seaborn | *Dépôt privé* |
+| **Projet 5** | **Migration de Données Médicales en NoSQL** | MongoDB, Docker Compose, Python, Modélisation Documents | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet-5-Migrez-des-donnees-medicales-l-aide-du-NoSQL) |
+| **Projet 4** | **Audit d'un Environnement de Données** *(SuperSmartMarket)* | Python, Pandas, RGPD, Contrôles d'intégrité | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet-4-Auditez-un-environnement-de-donn-es) |
+| **Projet 3** | **Conception de BDD Relationnelle & SQL** *(Laplace Immo)* | PostgreSQL, SQL, Modélisation MCD/MLD | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet-3---Entra-nez-vous-avec-SQL-et-cr-ez-votre-BDD) |
+| **Projet 2** | **Analyse Exploratoire de Données Éducatives** *(Academy EdTech)* | Python, Pandas, Matplotlib, Seaborn | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet-2-Analysez-les-donnees-de-systemes-educatifs) |
+| **Projet 1** | **Découvrez votre Formation de Data Engineer** | Méthodologie, Veille technologique, IA & Planification | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet-1-Decouvrez-votre-formation-de-data-engineer) |
 
 ---
 

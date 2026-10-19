@@ -81,7 +81,7 @@ Ce tableau synthétise les compétences mises en œuvre lors du parcours certifi
 
 | Projet | Contexte & Thématique | Stack Technique | Statut / Dépôt |
 |:---|:---|:---|:---:|
-| **Projet 13** | **Industrialisation d'un Chatbot RAG (POC vers MVP)** *(Puls-Events)* | Azure, FastAPI, LangChain, FAISS, Mistral AI, Docker | *Dépôt privé (En cours de validation)* |
+| **Projet 13** | **Industrialisation d'un Chatbot RAG (POC vers MVP)** *(Puls-Events)* | Azure, FastAPI, LangChain, FAISS, Mistral AI, Docker | [Consulter le Dépôt GitHub](https://github.com/jfcwebcraft/Projet-13-Passez-votre-systeme-IA-du-POC-au-MVP) |
 | **Projet 12** | **Architecture de Données Automatisée & Streaming** *(Option A — CAB)* | Redpanda, PostgreSQL, MongoDB, DuckDB, Kestra, Soda Core, Power BI | *Dépôt privé (En cours de validation)* |
 | **Projet 11** | **Assistant Culturel RAG Intelligent** *(Puls-Events)* | Python, LangChain, FAISS, OpenAgenda API, FastAPI | *Dépôt privé* |
 | **Projet 10** | **Pipeline d'Orchestration des Flux Budgétaires** *(Option A — CAB)* | Kestra, Docker, Python, Polars, SYLK, Power Automate, Parquet | *Dépôt privé* |
